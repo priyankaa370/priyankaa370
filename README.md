@@ -7,8 +7,9 @@ I am Priyanka Barde, a passionate data enthusiast eager to contribute my analyti
 ### About me
 ---
 
-I am currently pursuing masters in Information Systems from Stevens Institute of Technology.
-I am a data analyst enthusiast with a strong foundation in data analysis, statistics, and data visualization. 
+I am currently working as a Statistical and Data Mining Analyst Intern at Technical Consulting & Research, Inc. 
+I completed my masters in Information Systems from Stevens Institute of Technology in May, 2024.
+I am a data enthusiast with a strong foundation in data analysis, statistics, and data visualization. 
 My goal is to leverage my skills by understanding the data in various ways and make informed decisions.
 
 ### Skills
